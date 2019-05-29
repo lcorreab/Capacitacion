@@ -1,0 +1,11 @@
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/bin/Debug/netcoreapp2.2/Bienvenidos.deps.json
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/bin/Debug/netcoreapp2.2/Bienvenidos.runtimeconfig.json
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/bin/Debug/netcoreapp2.2/Bienvenidos.runtimeconfig.dev.json
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/bin/Debug/netcoreapp2.2/Bienvenidos.dll
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/bin/Debug/netcoreapp2.2/Bienvenidos.pdb
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/obj/Debug/netcoreapp2.2/Bienvenidos.csprojAssemblyReference.cache
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/obj/Debug/netcoreapp2.2/Bienvenidos.csproj.CoreCompileInputs.cache
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/obj/Debug/netcoreapp2.2/Bienvenidos.AssemblyInfoInputs.cache
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/obj/Debug/netcoreapp2.2/Bienvenidos.AssemblyInfo.cs
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/obj/Debug/netcoreapp2.2/Bienvenidos.dll
+/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/obj/Debug/netcoreapp2.2/Bienvenidos.pdb
