@@ -9,7 +9,7 @@ namespace Herencia_Ejemplo
         
         StudentDetails SDE= new StudentDetails();
         SDE.Mostrar_Estudiante();
-    
+         
         
     }
 }
