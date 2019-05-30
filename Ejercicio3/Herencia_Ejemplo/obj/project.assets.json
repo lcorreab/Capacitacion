@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio3/Herencia_Ejemplo/Herencia_Ejemplo.csproj",
+      "projectUniqueName": "/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio3/Herencia_Ejemplo/Herencia_Ejemplo.csproj",
       "projectName": "Herencia_Ejemplo",
-      "projectPath": "/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio3/Herencia_Ejemplo/Herencia_Ejemplo.csproj",
+      "projectPath": "/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio3/Herencia_Ejemplo/Herencia_Ejemplo.csproj",
       "packagesPath": "/Users/luiscorreabetancur/.nuget/packages/",
-      "outputPath": "/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio3/Herencia_Ejemplo/obj/",
+      "outputPath": "/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio3/Herencia_Ejemplo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

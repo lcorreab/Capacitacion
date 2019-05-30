@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/Bienvenidos.csproj",
+      "projectUniqueName": "/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio1/Bienvenidos/Bienvenidos.csproj",
       "projectName": "Bienvenidos",
-      "projectPath": "/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/Bienvenidos.csproj",
+      "projectPath": "/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio1/Bienvenidos/Bienvenidos.csproj",
       "packagesPath": "/Users/luiscorreabetancur/.nuget/packages/",
-      "outputPath": "/Users/luiscorreabetancur/Documents/Fundamentosc#/Ejercicio1/Bienvenidos/obj/",
+      "outputPath": "/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio1/Bienvenidos/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
