@@ -16,7 +16,7 @@ namespace InfoPersonas
             apellido=Console.ReadLine();
             Console.WriteLine("ingrese su sexo M , F femenino ");
             sexo=Console.ReadLine();
-            if(sexo.Equals("M") ^ sexo.Equals("F"))
+            if(sexo.Equals("M") | sexo.Equals("F"))
             {
               Console.WriteLine(" mi nombre es "   + nombre + " y mi apellido es " + apellido );
             

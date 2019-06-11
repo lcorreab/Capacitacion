@@ -1,0 +1,11 @@
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/bin/Debug/netcoreapp2.2/ArraysPrint.deps.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/bin/Debug/netcoreapp2.2/ArraysPrint.runtimeconfig.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/bin/Debug/netcoreapp2.2/ArraysPrint.runtimeconfig.dev.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/bin/Debug/netcoreapp2.2/ArraysPrint.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/bin/Debug/netcoreapp2.2/ArraysPrint.pdb
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/obj/Debug/netcoreapp2.2/ArraysPrint.csprojAssemblyReference.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/obj/Debug/netcoreapp2.2/ArraysPrint.csproj.CoreCompileInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/obj/Debug/netcoreapp2.2/ArraysPrint.AssemblyInfoInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/obj/Debug/netcoreapp2.2/ArraysPrint.AssemblyInfo.cs
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/obj/Debug/netcoreapp2.2/ArraysPrint.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio5/ArraysPrint/obj/Debug/netcoreapp2.2/ArraysPrint.pdb
