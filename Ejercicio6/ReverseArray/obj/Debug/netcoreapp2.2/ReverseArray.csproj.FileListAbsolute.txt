@@ -1,0 +1,11 @@
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/bin/Debug/netcoreapp2.2/ReverseArray.deps.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/bin/Debug/netcoreapp2.2/ReverseArray.runtimeconfig.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/bin/Debug/netcoreapp2.2/ReverseArray.runtimeconfig.dev.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/bin/Debug/netcoreapp2.2/ReverseArray.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/bin/Debug/netcoreapp2.2/ReverseArray.pdb
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/obj/Debug/netcoreapp2.2/ReverseArray.csprojAssemblyReference.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/obj/Debug/netcoreapp2.2/ReverseArray.csproj.CoreCompileInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/obj/Debug/netcoreapp2.2/ReverseArray.AssemblyInfoInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/obj/Debug/netcoreapp2.2/ReverseArray.AssemblyInfo.cs
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/obj/Debug/netcoreapp2.2/ReverseArray.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio6/ReverseArray/obj/Debug/netcoreapp2.2/ReverseArray.pdb
