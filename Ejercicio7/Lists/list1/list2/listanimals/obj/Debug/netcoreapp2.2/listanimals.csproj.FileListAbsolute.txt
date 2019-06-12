@@ -1,0 +1,11 @@
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/obj/Debug/netcoreapp2.2/listanimals.csprojAssemblyReference.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/obj/Debug/netcoreapp2.2/listanimals.csproj.CoreCompileInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/obj/Debug/netcoreapp2.2/listanimals.AssemblyInfoInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/obj/Debug/netcoreapp2.2/listanimals.AssemblyInfo.cs
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/bin/Debug/netcoreapp2.2/listanimals.deps.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/bin/Debug/netcoreapp2.2/listanimals.runtimeconfig.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/bin/Debug/netcoreapp2.2/listanimals.runtimeconfig.dev.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/bin/Debug/netcoreapp2.2/listanimals.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/bin/Debug/netcoreapp2.2/listanimals.pdb
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/obj/Debug/netcoreapp2.2/listanimals.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/list2/listanimals/obj/Debug/netcoreapp2.2/listanimals.pdb
