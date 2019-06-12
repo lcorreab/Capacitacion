@@ -1,0 +1,11 @@
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/bin/Debug/netcoreapp2.2/listprint.deps.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/bin/Debug/netcoreapp2.2/listprint.runtimeconfig.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/bin/Debug/netcoreapp2.2/listprint.runtimeconfig.dev.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/bin/Debug/netcoreapp2.2/listprint.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/bin/Debug/netcoreapp2.2/listprint.pdb
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/obj/Debug/netcoreapp2.2/listprint.csprojAssemblyReference.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/obj/Debug/netcoreapp2.2/listprint.csproj.CoreCompileInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/obj/Debug/netcoreapp2.2/listprint.AssemblyInfoInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/obj/Debug/netcoreapp2.2/listprint.AssemblyInfo.cs
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/obj/Debug/netcoreapp2.2/listprint.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Lists/list1/listprint/obj/Debug/netcoreapp2.2/listprint.pdb

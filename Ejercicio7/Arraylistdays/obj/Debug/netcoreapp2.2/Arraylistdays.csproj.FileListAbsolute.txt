@@ -1,0 +1,11 @@
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/obj/Debug/netcoreapp2.2/Arraylistdays.csprojAssemblyReference.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/obj/Debug/netcoreapp2.2/Arraylistdays.csproj.CoreCompileInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/obj/Debug/netcoreapp2.2/Arraylistdays.AssemblyInfoInputs.cache
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/obj/Debug/netcoreapp2.2/Arraylistdays.AssemblyInfo.cs
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/bin/Debug/netcoreapp2.2/Arraylistdays.deps.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/bin/Debug/netcoreapp2.2/Arraylistdays.runtimeconfig.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/bin/Debug/netcoreapp2.2/Arraylistdays.runtimeconfig.dev.json
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/bin/Debug/netcoreapp2.2/Arraylistdays.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/bin/Debug/netcoreapp2.2/Arraylistdays.pdb
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/obj/Debug/netcoreapp2.2/Arraylistdays.dll
+/Users/luiscorreabetancur/Documents/GitHub/Capacitacion/Ejercicio7/Arraylistdays/obj/Debug/netcoreapp2.2/Arraylistdays.pdb
